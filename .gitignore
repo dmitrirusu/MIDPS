@@ -1,1 +1,9 @@
 #Here we add ignored files
+*.bpi
+*.obj
+*.lib
+*.hpp
+*.i
+*.il?
+*.#??
+*.pb

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\AndroidProjects\StudioAlienGame\core\build\libs\core-1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="76224093a1f0368cb9a91603599893d7d4e02db4">
+        <dex dex="D:\AndroidProjects\StudioAlienGame\android\build\intermediates\pre-dexed\debug\core-1.0-a457daa87d0b8e78e7862530b6397d3f65363bcd.jar" />
+    </item>
+
+</items>
